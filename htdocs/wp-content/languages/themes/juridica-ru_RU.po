@@ -1,0 +1,28 @@
+# Translation of Themes - Juridica in Russian
+# This file is distributed under the same license as the Themes - Juridica package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-05 15:30:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Juridica\n"
+
+#. Theme Name of the plugin/theme
+msgid "Juridica"
+msgstr "Juridica"
+
+#. Description of the plugin/theme
+msgid "An easy to use, beautiful theme, with a large number of customizable options. Juridica is a stunning, responsive, multi purpose WordPress theme excellent for a Lawyer or attorney."
+msgstr "Простая в использовании, симпатичная тема с большим количеством настраиваемых опций. Juridica это потрясающая, адаптивная, многоцелевая тема на WordPress отлично подойдет для юриста или адвоката."
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
